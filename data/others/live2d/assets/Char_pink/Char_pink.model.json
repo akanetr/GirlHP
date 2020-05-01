@@ -1,0 +1,30 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Char_pink.moc",
+	"textures":[
+		"Char_pink.2048/texture_00.png",
+		"Char_pink.2048/texture_01.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/pink_01.mtn"},
+			{"file":"motion/pink_02.mtn"},
+			{"file":"motion/pink_03.mtn"},
+			{"file":"motion/pink_04.mtn"},
+			{"file":"motion/pink_05.mtn"},
+			{"file":"motion/pink_06.mtn"},
+			{"file":"motion/pink_07.mtn"},
+			{"file":"motion/pink_08.mtn"},
+			{"file":"motion/pink_09.mtn"},
+			{"file":"motion/pink_costume_01.mtn"},
+			{"file":"motion/pink_costume_02.mtn"},
+			{"file":"motion/pink_costume_03.mtn"},
+			{"file":"motion/pink_costume_04.mtn"},
+			{"file":"motion/pink_costume_05.mtn"},
+			{"file":"motion/pink_style_01.mtn"},
+			{"file":"motion/pink_style_02.mtn"}
+		]
+	},
+	"project_settings":"Char_pink.settings.json",
+	"name":"Char_pink"
+}

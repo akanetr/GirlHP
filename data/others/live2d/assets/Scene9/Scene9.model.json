@@ -1,0 +1,21 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Scene9.moc",
+	"textures":[
+		"Scene9.2048/texture_00.png",
+		"Scene9.2048/texture_01.png",
+		"Scene9.2048/texture_02.png",
+		"Scene9.2048/texture_03.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/Scene1-1.mtn"},
+			{"file":"motion/Scene1-2.mtn"},
+			{"file":"motion/Scene1-3.mtn"},
+			{"file":"motion/Scene1-4.mtn"},
+			{"file":"motion/Scene1-5.mtn"}
+		]
+	},
+	"project_settings":"Scene9.settings.json",
+	"name":"Scene9"
+}

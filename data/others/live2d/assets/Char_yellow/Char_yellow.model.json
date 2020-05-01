@@ -1,0 +1,31 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Char_yellow.moc",
+	"textures":[
+		"Char_yellow.2048/texture_00.png",
+		"Char_yellow.2048/texture_01.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/yellow_01.mtn"},
+			{"file":"motion/yellow_02.mtn"},
+			{"file":"motion/yellow_03.mtn"},
+			{"file":"motion/yellow_04.mtn"},
+			{"file":"motion/yellow_05.mtn"},
+			{"file":"motion/yellow_06.mtn"},
+			{"file":"motion/yellow_07.mtn"},
+			{"file":"motion/yellow_08.mtn"},
+			{"file":"motion/yellow_09.mtn"},
+			{"file":"motion/yellow_costume_01.mtn"},
+			{"file":"motion/yellow_costume_02.mtn"},
+			{"file":"motion/yellow_costume_03.mtn"},
+			{"file":"motion/yellow_costume_04.mtn"},
+			{"file":"motion/yellow_costume_05.mtn"},
+			{"file":"motion/yellow_style_01.mtn"},
+			{"file":"motion/yellow_style_02.mtn"},
+			{"file":"motion/yellow_style_03.mtn"}
+		]
+	},
+	"project_settings":"Char_yellow.settings.json",
+	"name":"Char_yellow"
+}

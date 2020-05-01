@@ -1,0 +1,28 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Char_blue.moc",
+	"textures":[
+		"Char_blue.2048/texture_00.png",
+		"Char_blue.2048/texture_01.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/blue_01.mtn"},
+			{"file":"motion/blue_02.mtn"},
+			{"file":"motion/blue_03.mtn"},
+			{"file":"motion/blue_04.mtn"},
+			{"file":"motion/blue_05.mtn"},
+			{"file":"motion/blue_06.mtn"},
+			{"file":"motion/blue_07.mtn"},
+			{"file":"motion/blue_08.mtn"},
+			{"file":"motion/blue_09.mtn"},
+			{"file":"motion/blue_costume_01.mtn"},
+			{"file":"motion/blue_costume_02.mtn"},
+			{"file":"motion/blue_costume_03.mtn"},
+			{"file":"motion/blue_costume_04.mtn"},
+			{"file":"motion/blue_costume_05.mtn"}
+		]
+	},
+	"project_settings":"Char_blue.settings.json",
+	"name":"Char_blue"
+}

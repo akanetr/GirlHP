@@ -1,0 +1,17 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Scene8.moc",
+	"textures":[
+		"Scene8.2048/texture_00.png",
+		"Scene8.2048/texture_01.png",
+		"Scene8.2048/texture_02.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/Scene1-1.mtn"},
+			{"file":"motion/Scene1-2.mtn"}
+		]
+	},
+	"project_settings":"Scene8.settings.json",
+	"name":"Scene8"
+}

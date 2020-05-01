@@ -1,0 +1,20 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Scene15.moc",
+	"textures":[
+		"Scene15.2048/texture_00.png",
+		"Scene15.2048/texture_01.png",
+		"Scene15.2048/texture_02.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/Scene1-1.mtn"},
+			{"file":"motion/Scene1-2.mtn"},
+			{"file":"motion/Scene1-3.mtn"},
+			{"file":"motion/Scene1-4.mtn"},
+			{"file":"motion/Scene1-5.mtn"}
+		]
+	},
+	"project_settings":"Scene15.settings.json",
+	"name":"Scene15"
+}
